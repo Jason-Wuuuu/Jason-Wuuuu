@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Chia-Hsiang Wu, but you can call me Jason!
+## Hi! 👋 I'm Chia-Hsiang Wu, but you can call me Jason!
 
 🚀 Welcome to my GitHub! Here you'll find some awesome projects showcasing my skills in various programming languages and frameworks. 
 
