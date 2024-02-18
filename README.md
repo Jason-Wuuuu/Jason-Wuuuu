@@ -1,17 +1,17 @@
-# Hi there! 👋 I'm Chia-Hsiang Wu, but you can call me Jason!
+## Hi there! 👋 I'm Chia-Hsiang Wu, but you can call me Jason!
 
 🚀 Welcome to my GitHub! Here you'll find some awesome projects showcasing my skills in various programming languages and frameworks. 
 
 🌐 Feel free to explore the repositories or check out my [portfolio website](https://jason-wuuuu.github.io/Jason/)!
 
 
-## About Me
+### About Me
 💻 I'm a CS grad from Taiwan currently pursuing my Master's in Computer Science at Stevens Institute of Technology.
 
 🔍 I'm actively seeking opportunities for a new grad position in software engineering.
 
 
-## Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
@@ -38,10 +38,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 
-## Get in Touch
-- [![Chia-Hsiang Wu](https://img.shields.io/badge/-Chia--Hsiang%20Wu-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/chia-hsiang-jason-wu)
+### Get in Touch
+[![Chia-Hsiang Wu](https://img.shields.io/badge/-Chia--Hsiang%20Wu-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/chia-hsiang-jason-wu)
 
-😊 Thanks for stopping by!
+### 😊 Thanks for stopping by!
 
 🤝 If you have any opportunities or just want to connect, feel free to reach out! 
 
