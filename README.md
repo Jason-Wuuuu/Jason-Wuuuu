@@ -5,13 +5,13 @@
 🌐 Feel free to explore the repositories or check out my [portfolio website](https://jason-wuuuu.github.io/Jason/)!
 
 
-### About Me
+## About Me
 💻 I'm a CS grad from Taiwan currently pursuing my Master's in Computer Science at Stevens Institute of Technology.
 
 🔍 I'm actively seeking opportunities for a new grad position in software engineering.
 
 
-### Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
@@ -20,7 +20,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
 
 
-### Frameworks & Tools
+## Frameworks & Tools
 
 ![Flask](https://img.shields.io/badge/-Flask-green?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -38,7 +38,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 
-### Get in Touch
+## Get in Touch
 [![Chia-Hsiang Wu](https://img.shields.io/badge/-Chia--Hsiang%20Wu-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/chia-hsiang-jason-wu)
 
 ### 😊 Thanks for stopping by!
