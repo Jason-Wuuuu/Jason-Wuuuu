@@ -35,7 +35,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 
 ## Get in Touch
-[![Chia-Hsiang Wu](https://img.shields.io/badge/-Chia--Hsiang%20Wu-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/chia-hsiang-jason-wu)
+[![Chia-Hsiang Wu](https://img.shields.io/badge/-Chia--Hsiang%20Wu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chia-hsiang-jason-wu/)
 
 ### 😊 Thanks for stopping by!
 
