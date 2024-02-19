@@ -1,9 +1,5 @@
 ## Hi! 👋 I'm Chia-Hsiang Wu, but you can call me Jason!
-
-🚀 Welcome to my GitHub! Here you'll find some awesome projects showcasing my skills in various programming languages and frameworks. 
-
-🌐 Feel free to explore the repositories or check out my [portfolio website](https://jason-wuuuu.github.io/Jason/)!
-
+🚀 Feel free to explore the repositories or check out my [portfolio website](https://jason-wuuuu.github.io/Jason/)!
 
 ## About Me
 💻 I'm a CS grad from Taiwan currently pursuing my Master's in Computer Science at Stevens Institute of Technology.
