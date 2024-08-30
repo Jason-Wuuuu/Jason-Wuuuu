@@ -2,8 +2,7 @@
 🚀 Feel free to explore the repositories or check out my [**Portfolio Website**](https://jason-wuuuu.github.io/Jason/) !
 
 ## About Me
-💻 I'm a CS grad from Taiwan currently pursuing my Master's in Computer Science at Stevens Institute of Technology.
-
+💻 I'm a CS grad from Taiwan with a Master's in Computer Science from Stevens Institute of Technology.
 🔍 I'm actively seeking opportunities for a new grad position in software engineering.
 
 
