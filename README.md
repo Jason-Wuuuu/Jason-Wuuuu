@@ -37,9 +37,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 
-## Get in Touch
-[![Chia-Hsiang Wu](https://img.shields.io/badge/-Chia--Hsiang%20Wu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chia-hsiang-jason-wu/)
-
 ### 😊 Thanks for stopping by!
 
 🤝 If you have any opportunities or just want to connect, feel free to reach out! 
